@@ -1,0 +1,9 @@
+# Requirements for Minecraft Bedrock Toolkit
+
+# List of Python dependencies
+# You may need to add or adjust the following based on your project needs:
+argparse
+requests
+pandas
+numpy
+# Add any other dependencies required
